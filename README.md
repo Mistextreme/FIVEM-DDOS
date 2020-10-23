@@ -1,5 +1,5 @@
 # FIVEM-DDOS
-FıveM DDOS SCRIPT
+FıveM DDOS SCRIPT // Working All FıveM Servers.
 
 Step 1: open your linux server with PuTTY
 
